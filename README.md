@@ -44,3 +44,10 @@ Patient_ID,Age,Gender,Department,Admit_Date,Discharge_Date
 - Length of Stay: Stay in days per patient and calculated average stay.
 - Age Groups & Visualization: Inline summary counts and a pop-up bar chart window.
 - Data Cleaning Report: Number of duplicates removed and median imputed.
+## Project Mentor
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+**Role:** Python Mentor / Technical Guide 
