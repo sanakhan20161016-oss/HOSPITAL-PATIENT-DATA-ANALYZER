@@ -1,0 +1,4 @@
+Patient_ID,Age,Gender,Department,Admit_Date,Discharge_Date
+P1,45,M,Cardiology,2026-08-01,2026-08-05
+P2,30,F,Ortho,2026-08-02,2026-08-04
+P3,60,M,Cardiology,2026-08-03,2026-08-08
